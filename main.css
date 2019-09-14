@@ -1,0 +1,21 @@
+.first {
+color: red;
+display: block;
+}
+a:hover {
+    font-style: italic;
+}
+a[title] {
+    color: green;
+ }
+
+ p::first-letter {
+    
+    font-size: 200px;
+    font-weight: bold;
+    font-family: cursive;
+  }
+
+ ol#next:nth-child(3) {
+   color: red;
+}
